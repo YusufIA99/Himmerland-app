@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "281339790168",
+    "firebase_url": "https://himmerlandbolig-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "himmerlandbolig",
+    "storage_bucket": "himmerlandbolig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281339790168:android:c2ec9a24d1af3faf379b2d",
+        "android_client_info": {
+          "package_name": "com.example.himmerlandapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281339790168-1gbotb3qvigo3l74rnve3r7e6oka9bbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzk2RlXBenD_IqKzCTdjU-NT5CUaQZ02E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281339790168-1gbotb3qvigo3l74rnve3r7e6oka9bbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

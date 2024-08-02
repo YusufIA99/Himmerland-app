@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/minside"
+        android:title="Min side"
+        android:icon="@drawable/ic_baseline_home_24">
+    </item>
+
+    <item
+        android:id="@+id/forum"
+        android:title="Forum Board"
+        android:icon="@drawable/ic_baseline_forum_24">
+    </item>
+
+    <item
+        android:id="@+id/himmerland"
+        android:title="Himmerland"
+        android:icon="@drawable/ic_baseline_info_24">
+    </item>
+
+    <item
+        android:id="@+id/kontakt"
+        android:title="Kontakt"
+        android:icon="@drawable/ic_baseline_contact_support_24">
+    </item>
+
+</menu>
