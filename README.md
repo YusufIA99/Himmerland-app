@@ -12,4 +12,3 @@ Welcome to the Himmerland Boligforening Community App! This app is designed to s
 
 - **Java**: Main programming language for the app.
 - **Firebase**: Backend services including Authentication, Firestore for database, and Cloud Messaging for notifications.
-![App Screenshot](himmerland.jpg)
